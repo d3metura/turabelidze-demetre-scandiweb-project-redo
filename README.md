@@ -1,1 +1,1 @@
-# scandiweb-project-redo
+# turabelidze-demetre-scandiweb-project-redo
